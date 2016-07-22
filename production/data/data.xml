@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <video>
+      <sources>
+        <source type="video/webm">videos/big_buck_bunny.webm</source>
+        <source type="video/ogg">videos/big_buck_bunny.ogv</source>
+        <source type="video/mp4">videos/big_buck_bunny.mp4</source>
+      </sources>
+      <title>Video 1</title>
+  </video>
+  <video>
+      <sources>
+        <source type="video/webm">http://techslides.com/demos/sample-videos/small.webm</source>
+        <source type="video/ogg">http://techslides.com/demos/sample-videos/small.ogg</source>
+        <source type="video/mp4">http://techslides.com/demos/sample-videos/small.mp4</source>
+      </sources>
+      <title>Video 2</title>
+  </video>   
+    <video>
+      <sources>
+        <source type="video/youtube">https://www.youtube.com/watch?v=ZGwup0ldfbM</source>
+      </sources>
+      <title>Video 3</title>
+    </video>
+</videos>	
